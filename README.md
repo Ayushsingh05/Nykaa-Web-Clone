@@ -3,7 +3,7 @@
 
 #### In this project we have tried to make a look alike clone of Nykaa. With our efforts and the technology stack, that we have learned so far in the masai school.
 
-### Deployed Link:-https://nykaa-team.netlify.app/
+### Deployed Link:-https://spontaneous-dusk-736230.netlify.app//
 
 # Technology Stack Used 
 * HTML5
